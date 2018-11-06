@@ -3,6 +3,7 @@ cloud ml engine samples
 
 # Lab - Basic:
 Please clone this repo using this command in Google Datalab notebook:
+
 !git clone https://github.com/GoogleCloudPlatform/training-data-analyst.git
 
 For the Lab, please run the notebooks in this order:
@@ -14,5 +15,6 @@ For the Lab, please run the notebooks in this order:
 # Reference examples with TF training and batch prediction on CMLE, TF hyperparameter tuning on CMLE, and SCK and XBG on CMLE:
 
 Please clone this repo using this command in Google Datalab notebook:
+
 !git clone https://github.com/milan-lee/cmle.git
 
