@@ -1,8 +1,8 @@
-## CMLE
+# CMLE
 cloud ml engine samples
 
 
-# Reading in data from GCS and BQ
+## Reading in data from GCS and BQ
 
 Please clone this repo using this command in Google Datalab notebook:
 
@@ -13,7 +13,7 @@ And use this notebook from the repo:
 read data from GCS and BQ.ipynb
 
 
-# BQML example
+## BQML example
 
 Please clone this repo using this command in Google Datalab notebook:
 
@@ -24,7 +24,7 @@ And use this notebook from the repo:
 bigquery ML sample code.ipynb
 
 
-# Reference examples with TF training and batch prediction on CMLE, TF hyperparameter tuning on CMLE, and SCK and XBG on CMLE:
+## Reference examples with TF training and batch prediction on CMLE, TF hyperparameter tuning on CMLE, and SCK and XBG on CMLE:
 
 Please clone this repo using this command in Google Datalab notebook:
 
@@ -43,7 +43,7 @@ Use this notebook from the repo for SCK and XBG on CMLE
 sck-and-xgboost-training-with-ml-engine-iris.ipynb
 
 
-# Lab - Basic:
+## Lab - Basic:
 Please clone this repo using this command in Google Datalab notebook:
 
 !git clone https://github.com/GoogleCloudPlatform/training-data-analyst.git
