@@ -1,5 +1,5 @@
 # CMLE
-cloud ml engine samples
+Google Cloud ML Engine samples
 
 
 ## Reading in data from GCS and BQ
