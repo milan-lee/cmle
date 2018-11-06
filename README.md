@@ -62,3 +62,11 @@ For the Lab, please run the notebooks in this order (I omitted some others becau
 /training-data-analyst/courses/machine_learning/cloudmle/cloudmle.ipynb
 
 
+## Example on how to convert csv to tfrecords binary format
+
+Please clone this repo using this command in Google Datalab notebook:
+!git clone https://github.com/GoogleCloudPlatform/tf-estimator-tutorials/
+
+Use this notebook:
+
+tf-estimator-tutorials/01_Regression/06.0 - Convert CSV to TFRecords.ipynb
