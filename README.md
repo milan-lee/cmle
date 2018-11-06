@@ -1,6 +1,9 @@
 # CMLE
 Google Cloud ML Engine samples
 
+## Create a Google Datalab instance
+
+https://docs.google.com/document/d/14GT9domtyZWtEmssKO0CW_JsfoiCKXUDcM-PYB5Xau4/edit?usp=sharing
 
 ## Reading in data from GCS and BQ
 
