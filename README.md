@@ -30,6 +30,10 @@ And use this notebook from the repo:
 
 bigquery ML sample code.ipynb
 
+Use this Google Documentation as reference:
+
+https://cloud.google.com/bigquery/docs/bigqueryml-analyst-start
+
 
 ## Reference examples with TF training and batch prediction on CMLE, TF hyperparameter tuning on CMLE, and SCK and XBG on CMLE:
 
