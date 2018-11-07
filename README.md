@@ -19,6 +19,10 @@ Use this Google documentation as reference:
 
 https://cloud.google.com/bigquery/docs/bigqueryml-analyst-start
 
+To get the weights
+
+https://cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-weights#mlweights_example
+
 
 ## BQML example
 
