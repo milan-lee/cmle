@@ -15,6 +15,10 @@ And use this notebook from the repo:
 
 read data from GCS and BQ.ipynb
 
+Use this Google documentation as reference:
+
+https://cloud.google.com/bigquery/docs/bigqueryml-analyst-start
+
 
 ## BQML example
 
