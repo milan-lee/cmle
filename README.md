@@ -83,3 +83,17 @@ Please clone this repo using this command in Google Datalab notebook:
 Use this notebook:
 
 tf-estimator-tutorials/01_Regression/06.0 - Convert CSV to TFRecords.ipynb
+
+
+## AutoML Vision
+
+Google Documentation page
+
+https://cloud.google.com/vision/automl/docs/
+
+
+## AutoML NLP
+
+Google Documentation page
+
+https://cloud.google.com/natural-language/automl/docs/
